@@ -396,4 +396,4 @@ def dynamic(text):
 
     for o in titik:
 
-        
+     print(\r'+text+
